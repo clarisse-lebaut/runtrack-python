@@ -24,7 +24,6 @@ quantité_restante = nouvelle_quantité - quantité_voulu
 #mise a jour du stock imprimer, on récupère la valeur du input
 print("Mise à jour du stock : ", quantité_restante) 
 
-
 #augmentation de produit
 #calculer la remise en pourcentage : nb total = (nb du pourcentage a calculer x 100) / par nle nb total
 #calculer une augmentation en pourcentage : (prix de l'article de base x 10 / 100)
