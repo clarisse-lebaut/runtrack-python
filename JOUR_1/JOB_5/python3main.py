@@ -1,5 +1,6 @@
 
-#JOB 5 : ALPHABET A L'ENVERS
+#----------------------------------------------#
+        # JOB 5 : ALPHABET A L'ENVERS #
 #----------------------------------------------#
 
 #définir la valeur de la variable, ici 'alphabet'

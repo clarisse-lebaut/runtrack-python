@@ -1,5 +1,6 @@
 
-#JOB 10 : SIMULATION FINANCIERE POUR UN INVESTISSMENT
+#----------------------------------------------#
+# JOB 10 :SIMULATION FINANCIERE D'INVESTISSMENT #
 #----------------------------------------------#
 
 #création de deux variables

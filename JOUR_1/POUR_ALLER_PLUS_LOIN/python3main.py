@@ -1,5 +1,6 @@
 
-#POUR ALLER PLUS LOIN : SCRIPT 'trouve les e'
+#----------------------------------------------#
+# JOB 10 : POUR ALLER PLUS LOIN -'trouve les e #
 #----------------------------------------------#
 
 #crée une variable avec la lettre 'e'

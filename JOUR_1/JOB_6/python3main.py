@@ -1,5 +1,6 @@
 
-#JOB 6 : PROGRAMME QUI STOCK LA PHRASE "je suis un string"
+#----------------------------------------------#
+        # JOB 6 : "JE SUIS UNE STRING"
 #----------------------------------------------#
 
 ma_string="je suis une String"

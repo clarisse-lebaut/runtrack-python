@@ -1,5 +1,6 @@
 
-#JOB 7 : PROGRAMME SOMMES DE VARIABLE
+#----------------------------------------------#
+        # JOB 7 : SOMMES DE VARIABLES #
 #----------------------------------------------#
 
 #paramétrages de variables

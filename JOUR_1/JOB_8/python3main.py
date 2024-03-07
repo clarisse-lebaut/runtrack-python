@@ -1,5 +1,6 @@
 
-#JOB 8 : PROGRAMME POUR CALCULER DES VARIABLES
+#----------------------------------------------#
+        # JOB 8 : CALCULER DES VARIABLES #
 #----------------------------------------------#
 
 num1=3

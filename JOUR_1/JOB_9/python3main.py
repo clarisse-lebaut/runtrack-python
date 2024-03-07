@@ -1,5 +1,6 @@
 
-#JOB 9 : PRGROAMME DE GESTION D'INVENTAIRE
+#----------------------------------------------#
+        # JOB 9 : GESTION D'INVENTAIRE #
 #----------------------------------------------#
 
 #création de variables
