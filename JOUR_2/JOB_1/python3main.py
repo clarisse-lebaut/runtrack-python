@@ -21,7 +21,3 @@ print("----- Liste 2 -----")
 compteur = list(range (21))
 print(compteur)
 
-
-
-#---------------------------
-# --- VU DANS LE HOW TO - LES BOUCLES EN PYTHON

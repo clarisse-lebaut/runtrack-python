@@ -37,12 +37,15 @@ nouveau_gain=nouveau_solde*gain_annuel
 print(f"Gain après nouvel investissment grâce au rendement : {nouveau_gain}")
 
 #retirer 10% au montal total
-
+baisse_de_dix_pourcent=nouveau_gain-(100*10/100)
+print(baisse_de_dix_pourcent)
 
 #le rendement diminue de 1%
-
+nouveau_taux_de_rendement=taux_de_rendement_annuel-(10*10/100)
+print(f"Montant du nouveua taux de rendement : {nouveau_taux_de_rendement}")
 
 #calculer le montant final des gains
-
+toatal_des_gains=nouveau_taux_de_rendement+baisse_de_dix_pourcent
 
 #afficher le résultat final dans le terminal
+print(f"Le total des gains se monte à : {toatal_des_gains}")

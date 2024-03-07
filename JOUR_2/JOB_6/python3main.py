@@ -20,7 +20,7 @@ def nombrePremier(number):
 """print(nombrePremier(13))""" #en commentaire pour ne pas avoir le true / false qui s'affiche en console
 #le chiffre entre parenthèse correspond au mot number écrit plus haut
 
-#ici on test psur plusieurs chiffre, pas uniquement sur la ligne précédente
+#ici on test sur plusieurs chiffre, pas uniquement sur la ligne précédente
 #faire appel a number pas a x, meme si je sais pas trop a quoi est égal x dans for 
 #si a la place de number je met x, alors c'est que le x fais appel a la variable crée dans la fonction 
 for number in range(2, 1001):
@@ -35,13 +35,7 @@ for number in range(2, 1001):
     puis on lui a dit dans une boucle dans laquelle 
     """
 
-
-""" fontion isprimse() --> méthode qui permet 
-    de faire des vérification dans les nombres mathématiques """
-
-
-
-
+#-------------------------------------------
 #------------------------------ VU EN HOW-TO
 
 for nombre in range(0, 1001):

@@ -20,4 +20,4 @@ def moyenne():
         if moyenne_etudiant >=15 and moyenne_etudiant <=20:
                 print ("Commentaire : Très bon élève") 
 
-moyenne() #pour appeler la fonction; simplement écrire ce qu'il y a d'écrit après def
+moyenne() #pour appeler la fonction, simplement écrire ce qu'il y a d'écrit après def, pas plus 
