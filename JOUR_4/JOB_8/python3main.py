@@ -3,23 +3,33 @@
         # JOB 8 : compter les nb pairs #
 #----------------------------------------------#
 
-#définir la liste
-L=[8, 24, 17, 48, 2, 16, 9, 7, 84, 91]
-print(L)
-#trouver tous les nombres pairs de cette liste
-for index in L:
-        if index%2 ==0:
-                print(f"{index} est un nombre pairs")
-#trouver combien il y a de chiffre pairs au total dans cette liste
-for index in L:
-        if index == index%10:
-                print(f" Il y a {index} nombres pairs")
+L=[8, 24, 27, 48, 2,16, 9, 7, 84, 91]
 
-#calculer tous les nombres pairs entre eux
-#il faut trouver comment récupérer les nombres divisble par 2 (=ce sont les nb pairs)
-somme = index%2 + index 
-print(f"{somme} est la somme total des nombres pairs de cette liste")
+#calculer les nombres pairs
+somme_des_nombres_pairs = 0
+#on initialise un compteur à partir de 0
+for i in L:
+#dans l'index de la Liste L
+        if i%2 ==0:
+        #si le nombres que l'index trouve sont divisible par 2 (car un nombre pair est divisible par 2)
+                somme_des_nombres_pairs = somme_des_nombres_pairs + i
+                #la somme des nombres pairs = sommes des nombres + i pour que l'index cherche tous les nombres pairs
+print(f"Le total des nombres pairs est de : {somme_des_nombres_pairs}")
+#imprime la somme des nombres pairs
 
 
-#somme total à trouver de nombres pairs de cette liste
-print(8+24+48+2+16+84)
+
+
+
+#------- Cheminement pour comprendre comment ça marche
+#la somme total de des nombres
+somme_total = 0
+for i in L:
+        somme_total = somme_total + i
+print(f"La somme total de cette liste est de : {somme_total}")
+#trouver les nombres de chiffres pairs
+compteur_de_nombres_pairs = 0
+for i in L:
+        if i%2 ==0:
+                compteur_de_nombres_pairs = compteur_de_nombres_pairs+1
+print(f"Il y a : {compteur_de_nombres_pairs} nombres pairs")

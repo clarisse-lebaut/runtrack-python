@@ -3,7 +3,6 @@
         # JOB 5 : calcul de remplpacement #
 #----------------------------------------------#
 
-
 L=[1, 2, 3, 4, 5]
 
 print(L)
@@ -22,14 +21,3 @@ remplace()
 
 print(L[-1])
 #impression de la dernière valeur de la liste
-
-
-
-
-
-"""
-def remplace():
-        for L[3] in L:
-                return(L[2]+L[4])
-print(L,remplace())
-"""
